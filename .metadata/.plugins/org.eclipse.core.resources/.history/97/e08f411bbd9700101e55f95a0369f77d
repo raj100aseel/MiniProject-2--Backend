@@ -1,0 +1,5 @@
+package com.rajtech.bankapp.service;
+
+public class AccountServiceImpl {
+
+}

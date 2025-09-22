@@ -1,0 +1,5 @@
+package com.rajtech.bankapp.entity;
+
+public class Account {
+
+}

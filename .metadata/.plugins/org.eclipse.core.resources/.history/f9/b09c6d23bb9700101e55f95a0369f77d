@@ -1,0 +1,5 @@
+package com.rajtech.bankapp.repository;
+
+public interface AccountRepository {
+
+}
