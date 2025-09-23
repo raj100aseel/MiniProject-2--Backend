@@ -90,3 +90,58 @@
 2025-09-22 19:41:19,329 [Worker-16: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\2025\FSJRTP - 1\Mini Project - 2\Backend\BankingApp\src\test\resources
 2025-09-22 19:44:16,463 [Stop Help Server] INFO  org.eclipse.jetty.server.Server - Stopped oejs.Server@c762207{STOPPING}[12.0.21,sto=0]
 2025-09-22 19:44:16,472 [Stop Help Server] INFO  o.e.jetty.server.AbstractConnector - Stopped ServerConnector@cb1f8ac{HTTP/1.1, (http/1.1)}{127.0.0.1:0}
+2025-09-23 18:52:32,688 [Worker-5: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2025-09-23 19:07:13,489 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-09-23 19:07:13,502 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-09-23 19:07:13,506 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\2025\FSJRTP - 1\Mini Project - 2\Backend\BankingApp\src\test\resources
+2025-09-23 19:10:06,543 [Worker-8: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-09-23 19:10:06,548 [Worker-8: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-09-23 19:10:06,550 [Worker-8: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\2025\FSJRTP - 1\Mini Project - 2\Backend\BankingApp\src\test\resources
+2025-09-23 19:11:52,656 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-09-23 19:11:52,660 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-09-23 19:11:52,664 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\2025\FSJRTP - 1\Mini Project - 2\Backend\BankingApp\src\test\resources
+2025-09-23 19:13:24,689 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-09-23 19:13:24,692 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-09-23 19:13:24,694 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\2025\FSJRTP - 1\Mini Project - 2\Backend\BankingApp\src\test\resources
+2025-09-23 19:16:34,789 [Worker-18: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-09-23 19:16:34,794 [Worker-18: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-09-23 19:16:34,796 [Worker-18: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\2025\FSJRTP - 1\Mini Project - 2\Backend\BankingApp\src\test\resources
+2025-09-23 19:20:47,086 [Worker-8: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-09-23 19:20:47,089 [Worker-8: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-09-23 19:20:47,092 [Worker-8: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\2025\FSJRTP - 1\Mini Project - 2\Backend\BankingApp\src\test\resources
+2025-09-23 19:25:25,180 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-09-23 19:25:25,185 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-09-23 19:25:25,188 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\2025\FSJRTP - 1\Mini Project - 2\Backend\BankingApp\src\test\resources
+2025-09-23 19:27:59,320 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-09-23 19:27:59,323 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-09-23 19:27:59,325 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\2025\FSJRTP - 1\Mini Project - 2\Backend\BankingApp\src\test\resources
+2025-09-23 19:30:18,904 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-09-23 19:30:18,908 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-09-23 19:30:18,910 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\2025\FSJRTP - 1\Mini Project - 2\Backend\BankingApp\src\test\resources
+2025-09-23 19:30:50,669 [Worker-16: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-09-23 19:30:50,677 [Worker-16: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-09-23 19:30:50,679 [Worker-16: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\2025\FSJRTP - 1\Mini Project - 2\Backend\BankingApp\src\test\resources
+2025-09-23 19:33:25,608 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-09-23 19:33:25,612 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-09-23 19:33:25,614 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\2025\FSJRTP - 1\Mini Project - 2\Backend\BankingApp\src\test\resources
+2025-09-23 19:34:44,795 [Worker-16: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-09-23 19:34:44,799 [Worker-16: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-09-23 19:34:44,800 [Worker-16: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\2025\FSJRTP - 1\Mini Project - 2\Backend\BankingApp\src\test\resources
+2025-09-23 19:37:17,847 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-09-23 19:37:17,850 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-09-23 19:37:17,852 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\2025\FSJRTP - 1\Mini Project - 2\Backend\BankingApp\src\test\resources
+2025-09-23 19:37:20,520 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-09-23 19:37:20,522 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-09-23 19:37:20,524 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\2025\FSJRTP - 1\Mini Project - 2\Backend\BankingApp\src\test\resources
+2025-09-23 19:38:42,936 [Worker-16: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-09-23 19:38:42,941 [Worker-16: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-09-23 19:38:42,943 [Worker-16: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\2025\FSJRTP - 1\Mini Project - 2\Backend\BankingApp\src\test\resources
+2025-09-23 19:39:57,379 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-09-23 19:39:57,388 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-09-23 19:39:57,391 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\2025\FSJRTP - 1\Mini Project - 2\Backend\BankingApp\src\test\resources
+2025-09-23 19:40:45,717 [Worker-12: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-09-23 19:40:45,720 [Worker-12: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-09-23 19:40:45,722 [Worker-12: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\2025\FSJRTP - 1\Mini Project - 2\Backend\BankingApp\src\test\resources
+2025-09-23 19:41:56,822 [Worker-18: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-09-23 19:41:56,825 [Worker-18: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-09-23 19:41:56,827 [Worker-18: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\2025\FSJRTP - 1\Mini Project - 2\Backend\BankingApp\src\test\resources

@@ -1,0 +1,24 @@
+package com.rajtech.bankapp.controller;
+
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.http.HttpStatus;
+import org.springframework.http.ResponseEntity;
+import org.springframework.web.bind.annotation.PostMapping;
+import org.springframework.web.bind.annotation.RequestBody;
+import org.springframework.web.bind.annotation.RequestMapping;
+import org.springframework.web.bind.annotation.RestController;
+
+import com.rajtech.bankapp.dto.AccountDto;
+import com.rajtech.bankapp.service.AccountService;
+
+@RestController
+@RequestMapping("/api/accounts")
+public class AccountController {
+	@Autowired
+	private AccountService accountService;
+	
+	@PostMapping
+	public ResponseEntity<AccountDto> openAccount(@RequestBody AccountDto accountDto) {
+		return new ResponseEntity<>(accountService.openAccount(accountDto),HttpStatus.CREATED);
+	}
+}

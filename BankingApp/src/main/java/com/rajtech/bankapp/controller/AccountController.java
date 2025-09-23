@@ -1,9 +1,16 @@
 package com.rajtech.bankapp.controller;
 
+import java.util.List;
+import java.util.Map;
+
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
+import org.springframework.web.bind.annotation.DeleteMapping;
+import org.springframework.web.bind.annotation.GetMapping;
+import org.springframework.web.bind.annotation.PathVariable;
 import org.springframework.web.bind.annotation.PostMapping;
+import org.springframework.web.bind.annotation.PutMapping;
 import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
@@ -21,4 +28,48 @@ public class AccountController {
 	public ResponseEntity<AccountDto> openAccount(@RequestBody AccountDto accountDto) {
 		return new ResponseEntity<>(accountService.openAccount(accountDto),HttpStatus.CREATED);
 	}
+	
+	@GetMapping("/{accountNumber}")
+	public ResponseEntity<AccountDto> getAccountByAccountNumber(@PathVariable Long accountNumber) {
+		AccountDto accountDto = accountService.getAccountByAccountNumber(accountNumber);
+		return ResponseEntity.ok(accountDto);
+	}
+	
+	@PutMapping("/{accountNumber}/deposit")//http://localhost:8080/api/accounts/2/deposit
+	public ResponseEntity<AccountDto> deposit(@PathVariable Long accountNumber, @RequestBody Map<String,Double> request) {
+		AccountDto accountDto = accountService.deposit(accountNumber,request.get("depositAmount"));
+		return ResponseEntity.ok(accountDto);
+	}
+	
+	@PutMapping("/{accountNumber}/withdraw")//http://localhost:8080/api/accounts/3/withdraw
+	public ResponseEntity<AccountDto> withdraw(@PathVariable Long accountNumber, @RequestBody Map<String,Double> request) {
+		AccountDto accountDto = accountService.withdraw(accountNumber, request.get("withdrawAmount"));
+		return ResponseEntity.ok(accountDto);
+	}
+	
+	@GetMapping
+	public ResponseEntity<List<AccountDto>> getAllAccounts() {
+		List<AccountDto> accountDtoList = accountService.getAllAccounts();
+		return ResponseEntity.ok(accountDtoList);
+	}
+	
+	@DeleteMapping("/{accountNumber}")
+	public ResponseEntity<String> deleteAccount(@PathVariable Long accountNumber) {
+		accountService.deleteAccount(accountNumber);
+		return ResponseEntity.ok("Account Deleted");
+	}
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+

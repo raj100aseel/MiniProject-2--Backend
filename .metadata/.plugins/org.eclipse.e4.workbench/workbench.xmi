@@ -2,7 +2,7 @@
 <application:Application xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:advanced="http://www.eclipse.org/ui/2010/UIModel/application/ui/advanced" xmlns:application="http://www.eclipse.org/ui/2010/UIModel/application" xmlns:basic="http://www.eclipse.org/ui/2010/UIModel/application/ui/basic" xmlns:menu="http://www.eclipse.org/ui/2010/UIModel/application/ui/menu" xmi:id="_NRDT8Je3EfCAPJfo1ts5xA" elementId="org.eclipse.e4.legacy.ide.application" contributorURI="platform:/plugin/org.eclipse.platform" selectedElement="_NRD7AJe3EfCAPJfo1ts5xA" bindingContexts="_NRD7CZe3EfCAPJfo1ts5xA">
   <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;workbench>&#xD;&#xA;&lt;mruList>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;AccountController.java&quot; tooltip=&quot;BankingApp/src/main/java/com/rajtech/bankapp/controller/AccountController.java&quot;>&#xD;&#xA;&lt;persistable path=&quot;/BankingApp/src/main/java/com/rajtech/bankapp/controller/AccountController.java&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;AccountServiceImpl.java&quot; tooltip=&quot;BankingApp/src/main/java/com/rajtech/bankapp/service/AccountServiceImpl.java&quot;>&#xD;&#xA;&lt;persistable path=&quot;/BankingApp/src/main/java/com/rajtech/bankapp/service/AccountServiceImpl.java&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;AccountService.java&quot; tooltip=&quot;BankingApp/src/main/java/com/rajtech/bankapp/service/AccountService.java&quot;>&#xD;&#xA;&lt;persistable path=&quot;/BankingApp/src/main/java/com/rajtech/bankapp/service/AccountService.java&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;AccountMapper.java&quot; tooltip=&quot;BankingApp/src/main/java/com/rajtech/bankapp/dto/AccountMapper.java&quot;>&#xD;&#xA;&lt;persistable path=&quot;/BankingApp/src/main/java/com/rajtech/bankapp/dto/AccountMapper.java&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;AccountDto.java&quot; tooltip=&quot;BankingApp/src/main/java/com/rajtech/bankapp/dto/AccountDto.java&quot;>&#xD;&#xA;&lt;persistable path=&quot;/BankingApp/src/main/java/com/rajtech/bankapp/dto/AccountDto.java&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;AccountRepository.java&quot; tooltip=&quot;BankingApp/src/main/java/com/rajtech/bankapp/repository/AccountRepository.java&quot;>&#xD;&#xA;&lt;persistable path=&quot;/BankingApp/src/main/java/com/rajtech/bankapp/repository/AccountRepository.java&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;SpringBootYMLPropertyEditor&quot; name=&quot;application.yml&quot; tooltip=&quot;BankingApp/src/main/resources/application.yml&quot;>&#xD;&#xA;&lt;persistable path=&quot;/BankingApp/src/main/resources/application.yml&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;SpringBootPropertyEditor&quot; name=&quot;application.properties&quot; tooltip=&quot;BankingApp/src/main/resources/application.properties&quot;>&#xD;&#xA;&lt;persistable path=&quot;/BankingApp/src/main/resources/application.properties&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;Account.java&quot; tooltip=&quot;BankingApp/src/main/java/com/rajtech/bankapp/entity/Account.java&quot;>&#xD;&#xA;&lt;persistable path=&quot;/BankingApp/src/main/java/com/rajtech/bankapp/entity/Account.java&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.m2e.editor.MavenPomEditor&quot; name=&quot;pom.xml&quot; tooltip=&quot;BankingApp/pom.xml&quot;>&#xD;&#xA;&lt;persistable path=&quot;/BankingApp/pom.xml&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;/mruList>&#xD;&#xA;&lt;/workbench>"/>
   <tags>activeSchemeId:org.eclipse.ui.defaultAcceleratorConfiguration</tags>
-  <children xsi:type="basic:TrimmedWindow" xmi:id="_NRD7AJe3EfCAPJfo1ts5xA" elementId="IDEWindow" contributorURI="platform:/plugin/org.eclipse.platform" selectedElement="_NjS6gpe3EfCAPJfo1ts5xA" label="%trimmedwindow.label.eclipseSDK" width="1024" height="768">
+  <children xsi:type="basic:TrimmedWindow" xmi:id="_NRD7AJe3EfCAPJfo1ts5xA" elementId="IDEWindow" contributorURI="platform:/plugin/org.eclipse.platform" selectedElement="_NjS6gpe3EfCAPJfo1ts5xA" label="%trimmedwindow.label.eclipseSDK" x="0" y="0" width="1024" height="768">
     <persistedState key="coolBarVisible" value="true"/>
     <persistedState key="perspectiveBarVisible" value="true"/>
     <persistedState key="isRestored" value="true"/>
@@ -58,15 +58,9 @@
           <tags>persp.newWizSC:org.eclipse.ui.editors.wizards.UntitledTextFileWizard</tags>
           <tags>persp.perspSC:org.eclipse.jdt.ui.JavaBrowsingPerspective</tags>
           <tags>persp.perspSC:org.eclipse.debug.ui.DebugPerspective</tags>
-          <tags>persp.editorOnboardingImageUri:platform:/plugin/org.eclipse.jdt.ui/$nl$/icons/full/onboarding_jperspective.svg</tags>
-          <tags>persp.editorOnboardingText:Open a file or drop files here to open them.</tags>
           <tags>persp.showIn:org.eclipse.jdt.ui.PackageExplorer</tags>
           <tags>persp.showIn:org.eclipse.team.ui.GenericHistoryView</tags>
           <tags>persp.showIn:org.eclipse.ui.navigator.ProjectExplorer</tags>
-          <tags>persp.editorOnboardingCommand:Find Actions$$$Ctrl+3</tags>
-          <tags>persp.editorOnboardingCommand:Show Key Assist$$$Ctrl+Shift+L</tags>
-          <tags>persp.editorOnboardingCommand:New$$$Ctrl+N</tags>
-          <tags>persp.editorOnboardingCommand:Open Type$$$Ctrl+Shift+T</tags>
           <tags>persp.viewSC:org.eclipse.mylyn.tasks.ui.views.tasks</tags>
           <tags>persp.newWizSC:org.eclipse.mylyn.tasks.ui.wizards.new.repository.task</tags>
           <tags>persp.actionSet:org.eclipse.debug.ui.breakpointActionSet</tags>
@@ -81,12 +75,17 @@
           <tags>persp.viewSC:org.eclipse.tm.terminal.view.ui.TerminalsView</tags>
           <tags>persp.showIn:org.eclipse.tm.terminal.view.ui.TerminalsView</tags>
           <tags>persp.viewSC:org.eclipse.ant.ui.views.AntView</tags>
+          <tags>persp.editorOnboardingImageUri:platform:/plugin/org.eclipse.jdt.ui/$nl$/icons/full/onboarding_jperspective.svg</tags>
+          <tags>persp.editorOnboardingText:Open a file or drop files here to open them.</tags>
+          <tags>persp.editorOnboardingCommand:Find Actions$$$Ctrl+3</tags>
+          <tags>persp.editorOnboardingCommand:Show Key Assist$$$Ctrl+Shift+L</tags>
+          <tags>persp.editorOnboardingCommand:New$$$Ctrl+N</tags>
+          <tags>persp.editorOnboardingCommand:Open Type$$$Ctrl+Shift+T</tags>
           <children xsi:type="basic:PartSashContainer" xmi:id="_NtMdYZe3EfCAPJfo1ts5xA" selectedElement="_NtMdbZe3EfCAPJfo1ts5xA" horizontal="true">
             <children xsi:type="basic:PartSashContainer" xmi:id="_NtMdYpe3EfCAPJfo1ts5xA" containerData="2500" selectedElement="_NtMdY5e3EfCAPJfo1ts5xA">
               <children xsi:type="basic:PartSashContainer" xmi:id="_NtMdY5e3EfCAPJfo1ts5xA" containerData="6000" selectedElement="_NtMdZJe3EfCAPJfo1ts5xA">
                 <children xsi:type="basic:PartStack" xmi:id="_NtMdZJe3EfCAPJfo1ts5xA" elementId="left" containerData="6600" selectedElement="_NtMdZZe3EfCAPJfo1ts5xA">
                   <tags>org.eclipse.e4.primaryNavigationStack</tags>
-                  <tags>active</tags>
                   <children xsi:type="advanced:Placeholder" xmi:id="_NtMdZZe3EfCAPJfo1ts5xA" elementId="org.eclipse.jdt.ui.PackageExplorer" ref="_NtCsYJe3EfCAPJfo1ts5xA" closeable="true">
                     <tags>View</tags>
                     <tags>categoryTag:Java</tags>
@@ -118,7 +117,7 @@
                 </children>
               </children>
             </children>
-            <children xsi:type="basic:PartSashContainer" xmi:id="_NtMdbZe3EfCAPJfo1ts5xA" containerData="7500" selectedElement="_NtMdeZe3EfCAPJfo1ts5xA">
+            <children xsi:type="basic:PartSashContainer" xmi:id="_NtMdbZe3EfCAPJfo1ts5xA" containerData="7500" selectedElement="_NtMdbpe3EfCAPJfo1ts5xA">
               <children xsi:type="basic:PartSashContainer" xmi:id="_NtMdbpe3EfCAPJfo1ts5xA" containerData="6708" selectedElement="_NtMdb5e3EfCAPJfo1ts5xA" horizontal="true">
                 <children xsi:type="advanced:Placeholder" xmi:id="_NtMdb5e3EfCAPJfo1ts5xA" elementId="org.eclipse.ui.editorss" containerData="7500" ref="_Ns-a8Je3EfCAPJfo1ts5xA"/>
                 <children xsi:type="basic:PartSashContainer" xmi:id="_NtMdcJe3EfCAPJfo1ts5xA" containerData="2500">
@@ -226,56 +225,29 @@
       <tags>categoryTag:Help</tags>
     </sharedElements>
     <sharedElements xsi:type="advanced:Area" xmi:id="_Ns-a8Je3EfCAPJfo1ts5xA" elementId="org.eclipse.ui.editorss" selectedElement="_Ns-a8Ze3EfCAPJfo1ts5xA">
-      <children xsi:type="basic:PartStack" xmi:id="_Ns-a8Ze3EfCAPJfo1ts5xA" elementId="org.eclipse.e4.primaryDataStack" selectedElement="_djkt8Je8EfCAPJfo1ts5xA">
+      <children xsi:type="basic:PartStack" xmi:id="_Ns-a8Ze3EfCAPJfo1ts5xA" elementId="org.eclipse.e4.primaryDataStack" selectedElement="_M2YicJe9EfCAPJfo1ts5xA">
         <tags>EditorStack</tags>
         <tags>org.eclipse.e4.primaryDataStack</tags>
-        <children xsi:type="basic:Part" xmi:id="_H7RasJe6EfCAPJfo1ts5xA" elementId="org.eclipse.e4.ui.compatibility.editor" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityEditor" label="Account.java" iconURI="platform:/plugin/org.eclipse.jdt.ui/icons/full/obj16/jcu_obj.svg" closeable="true">
-          <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;editor id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;Account.java&quot; partName=&quot;Account.java&quot; title=&quot;Account.java&quot; tooltip=&quot;BankingApp/src/main/java/com/rajtech/bankapp/entity/Account.java&quot;>&#xD;&#xA;&lt;input factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; path=&quot;/BankingApp/src/main/java/com/rajtech/bankapp/entity/Account.java&quot;/>&#xD;&#xA;&lt;editorState selectionHorizontalPixel=&quot;0&quot; selectionLength=&quot;0&quot; selectionOffset=&quot;637&quot; selectionTopPixel=&quot;292&quot;/>&#xD;&#xA;&lt;/editor>"/>
-          <tags>Editor</tags>
-          <tags>removeOnHide</tags>
-          <tags>org.eclipse.jdt.ui.CompilationUnitEditor</tags>
-        </children>
-        <children xsi:type="basic:Part" xmi:id="_dieMoJe6EfCAPJfo1ts5xA" elementId="org.eclipse.e4.ui.compatibility.editor" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityEditor" label="application.properties" iconURI="platform:/plugin/org.springframework.tooling.boot.ls/icons/spring_obj.gif" closeable="true">
-          <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;editor id=&quot;SpringBootPropertyEditor&quot; name=&quot;application.properties&quot; partName=&quot;application.properties&quot; title=&quot;application.properties&quot; tooltip=&quot;BankingApp/src/main/resources/application.properties&quot;>&#xD;&#xA;&lt;input factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; path=&quot;/BankingApp/src/main/resources/application.properties&quot;/>&#xD;&#xA;&lt;editorState selectionHorizontalPixel=&quot;0&quot; selectionLength=&quot;0&quot; selectionOffset=&quot;331&quot; selectionTopPixel=&quot;0&quot;/>&#xD;&#xA;&lt;/editor>"/>
-          <tags>Editor</tags>
-          <tags>removeOnHide</tags>
-          <tags>SpringBootPropertyEditor</tags>
-        </children>
-        <children xsi:type="basic:Part" xmi:id="_F8EtoJe7EfCAPJfo1ts5xA" elementId="org.eclipse.e4.ui.compatibility.editor" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityEditor" label="AccountRepository.java" iconURI="platform:/plugin/org.eclipse.jdt.ui/icons/full/obj16/jcu_obj.svg" closeable="true">
-          <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;editor id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;AccountRepository.java&quot; partName=&quot;AccountRepository.java&quot; title=&quot;AccountRepository.java&quot; tooltip=&quot;BankingApp/src/main/java/com/rajtech/bankapp/repository/AccountRepository.java&quot;>&#xD;&#xA;&lt;input factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; path=&quot;/BankingApp/src/main/java/com/rajtech/bankapp/repository/AccountRepository.java&quot;/>&#xD;&#xA;&lt;editorState selectionHorizontalPixel=&quot;0&quot; selectionLength=&quot;7&quot; selectionOffset=&quot;275&quot; selectionTopPixel=&quot;0&quot;/>&#xD;&#xA;&lt;/editor>"/>
-          <tags>Editor</tags>
-          <tags>removeOnHide</tags>
-          <tags>org.eclipse.jdt.ui.CompilationUnitEditor</tags>
-        </children>
-        <children xsi:type="basic:Part" xmi:id="_osdjYJe7EfCAPJfo1ts5xA" elementId="org.eclipse.e4.ui.compatibility.editor" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityEditor" label="AccountDto.java" iconURI="platform:/plugin/org.eclipse.jdt.ui/icons/full/obj16/jcu_obj.svg" closeable="true">
-          <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;editor id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;AccountDto.java&quot; partName=&quot;AccountDto.java&quot; title=&quot;AccountDto.java&quot; tooltip=&quot;BankingApp/src/main/java/com/rajtech/bankapp/dto/AccountDto.java&quot;>&#xD;&#xA;&lt;input factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; path=&quot;/BankingApp/src/main/java/com/rajtech/bankapp/dto/AccountDto.java&quot;/>&#xD;&#xA;&lt;editorState selectionHorizontalPixel=&quot;0&quot; selectionLength=&quot;0&quot; selectionOffset=&quot;300&quot; selectionTopPixel=&quot;0&quot;/>&#xD;&#xA;&lt;/editor>"/>
-          <tags>Editor</tags>
-          <tags>removeOnHide</tags>
-          <tags>org.eclipse.jdt.ui.CompilationUnitEditor</tags>
-        </children>
-        <children xsi:type="basic:Part" xmi:id="_2JWmUJe7EfCAPJfo1ts5xA" elementId="org.eclipse.e4.ui.compatibility.editor" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityEditor" label="AccountMapper.java" iconURI="platform:/plugin/org.eclipse.jdt.ui/icons/full/obj16/jcu_obj.svg" closeable="true">
-          <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;editor id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;AccountMapper.java&quot; partName=&quot;AccountMapper.java&quot; title=&quot;AccountMapper.java&quot; tooltip=&quot;BankingApp/src/main/java/com/rajtech/bankapp/dto/AccountMapper.java&quot;>&#xD;&#xA;&lt;input factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; path=&quot;/BankingApp/src/main/java/com/rajtech/bankapp/dto/AccountMapper.java&quot;/>&#xD;&#xA;&lt;editorState selectionHorizontalPixel=&quot;0&quot; selectionLength=&quot;0&quot; selectionOffset=&quot;593&quot; selectionTopPixel=&quot;0&quot;/>&#xD;&#xA;&lt;/editor>"/>
-          <tags>Editor</tags>
-          <tags>removeOnHide</tags>
-          <tags>org.eclipse.jdt.ui.CompilationUnitEditor</tags>
-        </children>
+        <tags>active</tags>
         <children xsi:type="basic:Part" xmi:id="_djkt8Je8EfCAPJfo1ts5xA" elementId="org.eclipse.e4.ui.compatibility.editor" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityEditor" label="AccountService.java" iconURI="platform:/plugin/org.eclipse.jdt.ui/icons/full/obj16/jcu_obj.svg" closeable="true">
-          <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;editor id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;AccountService.java&quot; partName=&quot;AccountService.java&quot; title=&quot;AccountService.java&quot; tooltip=&quot;BankingApp/src/main/java/com/rajtech/bankapp/service/AccountService.java&quot;>&#xD;&#xA;&lt;input factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; path=&quot;/BankingApp/src/main/java/com/rajtech/bankapp/service/AccountService.java&quot;/>&#xD;&#xA;&lt;editorState selectionHorizontalPixel=&quot;0&quot; selectionLength=&quot;0&quot; selectionOffset=&quot;166&quot; selectionTopPixel=&quot;0&quot;/>&#xD;&#xA;&lt;/editor>"/>
+          <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;editor id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;AccountService.java&quot; partName=&quot;AccountService.java&quot; title=&quot;AccountService.java&quot; tooltip=&quot;BankingApp/src/main/java/com/rajtech/bankapp/service/AccountService.java&quot;>&#xD;&#xA;&lt;input factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; path=&quot;/BankingApp/src/main/java/com/rajtech/bankapp/service/AccountService.java&quot;/>&#xD;&#xA;&lt;editorState selectionHorizontalPixel=&quot;0&quot; selectionLength=&quot;0&quot; selectionOffset=&quot;463&quot; selectionTopPixel=&quot;0&quot;/>&#xD;&#xA;&lt;/editor>"/>
           <tags>Editor</tags>
           <tags>removeOnHide</tags>
           <tags>org.eclipse.jdt.ui.CompilationUnitEditor</tags>
         </children>
         <children xsi:type="basic:Part" xmi:id="_pH00QJe8EfCAPJfo1ts5xA" elementId="org.eclipse.e4.ui.compatibility.editor" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityEditor" label="AccountServiceImpl.java" iconURI="platform:/plugin/org.eclipse.jdt.ui/icons/full/obj16/jcu_obj.svg" closeable="true">
-          <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;editor id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;AccountServiceImpl.java&quot; partName=&quot;AccountServiceImpl.java&quot; title=&quot;AccountServiceImpl.java&quot; tooltip=&quot;BankingApp/src/main/java/com/rajtech/bankapp/service/AccountServiceImpl.java&quot;>&#xD;&#xA;&lt;input factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; path=&quot;/BankingApp/src/main/java/com/rajtech/bankapp/service/AccountServiceImpl.java&quot;/>&#xD;&#xA;&lt;editorState selectionHorizontalPixel=&quot;0&quot; selectionLength=&quot;10&quot; selectionOffset=&quot;711&quot; selectionTopPixel=&quot;0&quot;/>&#xD;&#xA;&lt;/editor>"/>
+          <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;editor id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;AccountServiceImpl.java&quot; partName=&quot;AccountServiceImpl.java&quot; title=&quot;AccountServiceImpl.java&quot; tooltip=&quot;BankingApp/src/main/java/com/rajtech/bankapp/service/AccountServiceImpl.java&quot;>&#xD;&#xA;&lt;input factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; path=&quot;/BankingApp/src/main/java/com/rajtech/bankapp/service/AccountServiceImpl.java&quot;/>&#xD;&#xA;&lt;editorState selectionHorizontalPixel=&quot;0&quot; selectionLength=&quot;0&quot; selectionOffset=&quot;2519&quot; selectionTopPixel=&quot;1040&quot;/>&#xD;&#xA;&lt;/editor>"/>
           <tags>Editor</tags>
           <tags>removeOnHide</tags>
           <tags>org.eclipse.jdt.ui.CompilationUnitEditor</tags>
         </children>
         <children xsi:type="basic:Part" xmi:id="_M2YicJe9EfCAPJfo1ts5xA" elementId="org.eclipse.e4.ui.compatibility.editor" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityEditor" label="AccountController.java" iconURI="platform:/plugin/org.eclipse.jdt.ui/icons/full/obj16/jcu_obj.svg" closeable="true">
-          <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;editor id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;AccountController.java&quot; partName=&quot;AccountController.java&quot; title=&quot;AccountController.java&quot; tooltip=&quot;BankingApp/src/main/java/com/rajtech/bankapp/controller/AccountController.java&quot;>&#xD;&#xA;&lt;input factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; path=&quot;/BankingApp/src/main/java/com/rajtech/bankapp/controller/AccountController.java&quot;/>&#xD;&#xA;&lt;editorState selectionHorizontalPixel=&quot;0&quot; selectionLength=&quot;0&quot; selectionOffset=&quot;600&quot; selectionTopPixel=&quot;0&quot;/>&#xD;&#xA;&lt;/editor>"/>
+          <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;editor id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;AccountController.java&quot; partName=&quot;AccountController.java&quot; title=&quot;AccountController.java&quot; tooltip=&quot;BankingApp/src/main/java/com/rajtech/bankapp/controller/AccountController.java&quot;>&#xD;&#xA;&lt;input factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; path=&quot;/BankingApp/src/main/java/com/rajtech/bankapp/controller/AccountController.java&quot;/>&#xD;&#xA;&lt;editorState selectionHorizontalPixel=&quot;0&quot; selectionLength=&quot;0&quot; selectionOffset=&quot;2249&quot; selectionTopPixel=&quot;1210&quot;/>&#xD;&#xA;&lt;/editor>"/>
           <tags>Editor</tags>
           <tags>removeOnHide</tags>
           <tags>org.eclipse.jdt.ui.CompilationUnitEditor</tags>
+          <tags>active</tags>
+          <tags>activeOnClose</tags>
         </children>
       </children>
     </sharedElements>
@@ -285,8 +257,6 @@
       <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;view group_libraries=&quot;1&quot; layout=&quot;2&quot; linkWithEditor=&quot;0&quot; rootMode=&quot;1&quot; workingSetName=&quot;&quot;>&#xD;&#xA;&lt;customFilters userDefinedPatternsEnabled=&quot;false&quot;>&#xD;&#xA;&lt;xmlDefinedFilters>&#xD;&#xA;&lt;child filterId=&quot;org.eclipse.jdt.ui.PackageExplorer.StaticsFilter&quot; isEnabled=&quot;false&quot;/>&#xD;&#xA;&lt;child filterId=&quot;org.eclipse.buildship.ui.packageexplorer.filter.gradle.buildfolder&quot; isEnabled=&quot;true&quot;/>&#xD;&#xA;&lt;child filterId=&quot;org.eclipse.jdt.ui.PackageExplorer.NonSharedProjectsFilter&quot; isEnabled=&quot;false&quot;/>&#xD;&#xA;&lt;child filterId=&quot;bndtools.jareditor.tempfiles.packageexplorer.filter&quot; isEnabled=&quot;true&quot;/>&#xD;&#xA;&lt;child filterId=&quot;org.eclipse.jdt.internal.ui.PackageExplorer.EmptyInnerPackageFilter&quot; isEnabled=&quot;true&quot;/>&#xD;&#xA;&lt;child filterId=&quot;org.eclipse.m2e.MavenModuleFilter&quot; isEnabled=&quot;false&quot;/>&#xD;&#xA;&lt;child filterId=&quot;org.eclipse.buildship.ui.packageexplorer.filter.gradle.subProject&quot; isEnabled=&quot;true&quot;/>&#xD;&#xA;&lt;child filterId=&quot;org.eclipse.jdt.ui.PackageExplorer.ClosedProjectsFilter&quot; isEnabled=&quot;false&quot;/>&#xD;&#xA;&lt;child filterId=&quot;org.eclipse.jdt.ui.PackageExplorer.EmptyLibraryContainerFilter&quot; isEnabled=&quot;true&quot;/>&#xD;&#xA;&lt;child filterId=&quot;org.eclipse.jdt.ui.PackageExplorer.PackageDeclarationFilter&quot; isEnabled=&quot;true&quot;/>&#xD;&#xA;&lt;child filterId=&quot;org.eclipse.pde.ui.BinaryProjectFilter1&quot; isEnabled=&quot;false&quot;/>&#xD;&#xA;&lt;child filterId=&quot;org.eclipse.jdt.ui.PackageExplorer.LocalTypesFilter&quot; isEnabled=&quot;false&quot;/>&#xD;&#xA;&lt;child filterId=&quot;org.eclipse.pde.ui.ExternalPluginLibrariesFilter1&quot; isEnabled=&quot;true&quot;/>&#xD;&#xA;&lt;child filterId=&quot;org.eclipse.jdt.ui.PackageExplorer.FieldsFilter&quot; isEnabled=&quot;false&quot;/>&#xD;&#xA;&lt;child filterId=&quot;org.eclipse.jdt.ui.PackageExplorer.NonJavaProjectsFilter&quot; isEnabled=&quot;false&quot;/>&#xD;&#xA;&lt;child filterId=&quot;org.eclipse.jdt.ui.PackageExplorer_patternFilterId_.*&quot; isEnabled=&quot;true&quot;/>&#xD;&#xA;&lt;child filterId=&quot;org.eclipse.jdt.ui.PackageExplorer.SyntheticMembersFilter&quot; isEnabled=&quot;true&quot;/>&#xD;&#xA;&lt;child filterId=&quot;org.eclipse.jdt.ui.PackageExplorer.ContainedLibraryFilter&quot; isEnabled=&quot;false&quot;/>&#xD;&#xA;&lt;child filterId=&quot;org.eclipse.jdt.internal.ui.PackageExplorer.HideInnerClassFilesFilter&quot; isEnabled=&quot;true&quot;/>&#xD;&#xA;&lt;child filterId=&quot;org.eclipse.jdt.ui.PackageExplorer.DeprecatedMembersFilter&quot; isEnabled=&quot;false&quot;/>&#xD;&#xA;&lt;child filterId=&quot;org.eclipse.jdt.ui.PackageExplorer.ImportDeclarationFilter&quot; isEnabled=&quot;true&quot;/>&#xD;&#xA;&lt;child filterId=&quot;org.eclipse.jdt.ui.PackageExplorer.NonJavaElementFilter&quot; isEnabled=&quot;false&quot;/>&#xD;&#xA;&lt;child filterId=&quot;org.eclipse.jdt.ui.PackageExplorer.LibraryFilter&quot; isEnabled=&quot;false&quot;/>&#xD;&#xA;&lt;child filterId=&quot;org.eclipse.jdt.ui.PackageExplorer.CuAndClassFileFilter&quot; isEnabled=&quot;false&quot;/>&#xD;&#xA;&lt;child filterId=&quot;org.eclipse.jdt.internal.ui.PackageExplorer.EmptyPackageFilter&quot; isEnabled=&quot;false&quot;/>&#xD;&#xA;&lt;child filterId=&quot;org.eclipse.jdt.ui.PackageExplorer.NonPublicFilter&quot; isEnabled=&quot;false&quot;/>&#xD;&#xA;&lt;/xmlDefinedFilters>&#xD;&#xA;&lt;/customFilters>&#xD;&#xA;&lt;/view>"/>
       <tags>View</tags>
       <tags>categoryTag:Java</tags>
-      <tags>active</tags>
-      <tags>activeOnClose</tags>
       <menus xmi:id="_NyudoJe3EfCAPJfo1ts5xA" elementId="org.eclipse.jdt.ui.PackageExplorer">
         <tags>ViewMenu</tags>
         <tags>menuContribution:menu</tags>
@@ -444,7 +414,7 @@
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_NkU1QJe3EfCAPJfo1ts5xA" elementId="org.eclipse.ui.workbench.file">
         <tags>Draggable</tags>
-        <children xsi:type="menu:HandledToolItem" xmi:id="_NkaU0Je3EfCAPJfo1ts5xA" elementId="print" visible="false" iconURI="platform:/plugin/org.eclipse.ui/icons/full/etool16/print_edit.svg" tooltip="Print" enabled="false" command="_NSuu-5e3EfCAPJfo1ts5xA"/>
+        <children xsi:type="menu:HandledToolItem" xmi:id="_WUgfIJiAEfCI_LUZIs3nRQ" elementId="print" visible="false" iconURI="platform:/plugin/org.eclipse.ui/icons/full/etool16/print_edit.svg" tooltip="Print" command="_NSuu-5e3EfCAPJfo1ts5xA"/>
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_NkU1QZe3EfCAPJfo1ts5xA" elementId="group.edit" toBeRendered="false">
         <tags>toolbarSeparator</tags>
@@ -452,8 +422,8 @@
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_NkU1Q5e3EfCAPJfo1ts5xA" elementId="org.eclipse.ui.workbench.edit">
         <tags>Draggable</tags>
-        <children xsi:type="menu:HandledToolItem" xmi:id="_Nka74Je3EfCAPJfo1ts5xA" elementId="undo" iconURI="platform:/plugin/org.eclipse.ui/icons/full/etool16/undo_edit.svg" tooltip="Undo" enabled="false" command="_NSpPcZe3EfCAPJfo1ts5xA"/>
-        <children xsi:type="menu:HandledToolItem" xmi:id="_Nka74Ze3EfCAPJfo1ts5xA" elementId="redo" iconURI="platform:/plugin/org.eclipse.ui/icons/full/etool16/redo_edit.svg" tooltip="Redo" enabled="false" command="_NSrEqZe3EfCAPJfo1ts5xA"/>
+        <children xsi:type="menu:HandledToolItem" xmi:id="_WUhGNZiAEfCI_LUZIs3nRQ" elementId="undo" iconURI="platform:/plugin/org.eclipse.ui/icons/full/etool16/undo_edit.svg" tooltip="Undo" enabled="false" command="_NSpPcZe3EfCAPJfo1ts5xA"/>
+        <children xsi:type="menu:HandledToolItem" xmi:id="_WUiUUJiAEfCI_LUZIs3nRQ" elementId="redo" iconURI="platform:/plugin/org.eclipse.ui/icons/full/etool16/redo_edit.svg" tooltip="Redo" enabled="false" command="_NSrEqZe3EfCAPJfo1ts5xA"/>
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_NkU1RJe3EfCAPJfo1ts5xA" elementId="additions" toBeRendered="false">
         <tags>toolbarSeparator</tags>
@@ -477,7 +447,7 @@
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_NkVcUJe3EfCAPJfo1ts5xA" elementId="org.eclipse.ui.workbench.navigate">
         <tags>Draggable</tags>
-        <children xsi:type="menu:HandledToolItem" xmi:id="_Nka755e3EfCAPJfo1ts5xA" elementId="org.eclipse.ui.window.pinEditor" iconURI="platform:/plugin/org.eclipse.ui/icons/full/etool16/pin_editor.svg" tooltip="Pin Editor" type="Check" command="_NSuH4Je3EfCAPJfo1ts5xA"/>
+        <children xsi:type="menu:HandledToolItem" xmi:id="_WUi7YJiAEfCI_LUZIs3nRQ" elementId="org.eclipse.ui.window.pinEditor" iconURI="platform:/plugin/org.eclipse.ui/icons/full/etool16/pin_editor.svg" tooltip="Pin Editor" type="Check" command="_NSuH4Je3EfCAPJfo1ts5xA"/>
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_NkVcUZe3EfCAPJfo1ts5xA" elementId="group.editor" toBeRendered="false">
         <tags>toolbarSeparator</tags>
@@ -2905,7 +2875,7 @@
   <addons xmi:id="_NRD7FZe3EfCAPJfo1ts5xA" elementId="MinMax Addon" contributorURI="platform:/plugin/org.eclipse.platform" contributionURI="bundleclass://org.eclipse.e4.ui.workbench.addons.swt/org.eclipse.e4.ui.workbench.addons.minmax.MinMaxAddon"/>
   <addons xmi:id="_NRD7Fpe3EfCAPJfo1ts5xA" elementId="org.eclipse.ui.workbench.addon.0" contributorURI="platform:/plugin/org.eclipse.platform" contributionURI="bundleclass://org.eclipse.e4.ui.workbench/org.eclipse.e4.ui.internal.workbench.addons.HandlerProcessingAddon"/>
   <addons xmi:id="_NRagUJe3EfCAPJfo1ts5xA" elementId="SplitterAddon" contributionURI="bundleclass://org.eclipse.e4.ui.workbench.addons.swt/org.eclipse.e4.ui.workbench.addons.splitteraddon.SplitterAddon"/>
-  <addons xmi:id="_IYS0IKimEeS11vbz3f9ezw" elementId="org.eclipse.ui.ide.addon.0" contributorURI="platform:/plugin/org.eclipse.ui.ide" contributionURI="bundleclass://org.eclipse.ui.ide/org.eclipse.ui.internal.ide.addons.SaveAllDirtyPartsAddon"/>
+  <addons xmi:id="_WJBA0ZiAEfCI_LUZIs3nRQ" elementId="org.eclipse.ui.ide.addon.0" contributionURI="bundleclass://org.eclipse.ui.ide/org.eclipse.ui.internal.ide.addons.SaveAllDirtyPartsAddon"/>
   <addons xmi:id="_dz0JgGOlEeSMMaPQU2nlzw" elementId="org.eclipse.ui.ide.application.addon.0" contributorURI="platform:/plugin/org.eclipse.ui.ide.application" contributionURI="bundleclass://org.eclipse.ui.ide.application/org.eclipse.ui.internal.ide.application.addons.ModelCleanupAddon"/>
   <categories xmi:id="_NSal4Je3EfCAPJfo1ts5xA" elementId="org.eclipse.team.ui.category.team" name="Version control (Team)" description="Actions that apply when working with a version control system"/>
   <categories xmi:id="_NSal4Ze3EfCAPJfo1ts5xA" elementId="org.eclipse.ui.category.views" name="Views" description="Commands for opening views"/>

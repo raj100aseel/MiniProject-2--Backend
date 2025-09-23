@@ -5,4 +5,7 @@
     <fullyQualifiedTypeName name="jakarta.persistence.Id"/>
     <fullyQualifiedTypeName name="com.rajtech.bankapp.dto.AccountMapper"/>
     <fullyQualifiedTypeName name="org.springframework.http.HttpStatus"/>
+    <fullyQualifiedTypeName name="java.util.Map"/>
+    <fullyQualifiedTypeName name="java.util.stream.Collectors"/>
+    <fullyQualifiedTypeName name="java.util.List"/>
 </qualifiedTypeNameHistroy>
