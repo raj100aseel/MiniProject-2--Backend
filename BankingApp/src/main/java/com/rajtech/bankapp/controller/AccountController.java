@@ -6,6 +6,7 @@ import java.util.Map;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
+import org.springframework.web.bind.annotation.CrossOrigin;
 import org.springframework.web.bind.annotation.DeleteMapping;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.PathVariable;
@@ -19,6 +20,7 @@ import com.rajtech.bankapp.dto.AccountDto;
 import com.rajtech.bankapp.service.AccountService;
 
 @RestController
+@CrossOrigin (origins="http://localhost:4200")
 @RequestMapping("/api/accounts")
 public class AccountController {
 	@Autowired
@@ -30,19 +32,19 @@ public class AccountController {
 	}
 	
 	@GetMapping("/{accountNumber}")
-	public ResponseEntity<AccountDto> getAccountByAccountNumber(@PathVariable Long accountNumber) {
+	public ResponseEntity<AccountDto> getAccountByAccountNumber(@PathVariable int accountNumber) {
 		AccountDto accountDto = accountService.getAccountByAccountNumber(accountNumber);
 		return ResponseEntity.ok(accountDto);
 	}
 	
 	@PutMapping("/{accountNumber}/deposit")//http://localhost:8080/api/accounts/2/deposit
-	public ResponseEntity<AccountDto> deposit(@PathVariable Long accountNumber, @RequestBody Map<String,Double> request) {
+	public ResponseEntity<AccountDto> deposit(@PathVariable int accountNumber, @RequestBody Map<String,Double> request) {
 		AccountDto accountDto = accountService.deposit(accountNumber,request.get("depositAmount"));
 		return ResponseEntity.ok(accountDto);
 	}
 	
 	@PutMapping("/{accountNumber}/withdraw")//http://localhost:8080/api/accounts/3/withdraw
-	public ResponseEntity<AccountDto> withdraw(@PathVariable Long accountNumber, @RequestBody Map<String,Double> request) {
+	public ResponseEntity<AccountDto> withdraw(@PathVariable int accountNumber, @RequestBody Map<String,Double> request) {
 		AccountDto accountDto = accountService.withdraw(accountNumber, request.get("withdrawAmount"));
 		return ResponseEntity.ok(accountDto);
 	}
@@ -54,7 +56,7 @@ public class AccountController {
 	}
 	
 	@DeleteMapping("/{accountNumber}")
-	public ResponseEntity<String> deleteAccount(@PathVariable Long accountNumber) {
+	public ResponseEntity<String> deleteAccount(@PathVariable int accountNumber) {
 		accountService.deleteAccount(accountNumber);
 		return ResponseEntity.ok("Account Deleted");
 	}

@@ -1,7 +1,0 @@
-package com.rajtech.bankapp.service;
-
-import com.rajtech.bankapp.dto.AccountDto;
-
-public interface AccountService {
-	AccountDto openAccount(AccountDto accountDto);
-}

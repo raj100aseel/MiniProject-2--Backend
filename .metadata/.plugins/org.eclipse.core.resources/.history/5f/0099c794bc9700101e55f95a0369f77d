@@ -1,5 +1,0 @@
-package com.rajtech.bankapp.service;
-
-public interface AccountService {
-	AccountDto openAccount(AccountDto account);
-}
