@@ -1,6 +1,5 @@
 package com.rajtech.bankapp.controller;
 
-import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
 
@@ -57,11 +56,9 @@ public class AccountController {
 	}
 	
 	@DeleteMapping("/{accountNumber}")
-	public ResponseEntity<Map<String,Boolean>> deleteAccount(@PathVariable int accountNumber) {
+	public ResponseEntity<String> deleteAccount(@PathVariable int accountNumber) {
 		accountService.deleteAccount(accountNumber);
-		Map<String,Boolean> response = new HashMap<String,Boolean>();
-		response.put("Deleted",Boolean.TRUE);
-		return ResponseEntity.ok(response);
+		return ResponseEntity.ok("Account Deleted");
 	}
 }
 
